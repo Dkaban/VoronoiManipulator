@@ -1,7 +1,9 @@
 # VoronoiManipulator
+## Built in: Processing
+## Language: Processing
 A simple interactive voronoi project made in Processing
 
-How To Use:
+### How To Use:
 
 1. Right click to add a voronoi point (cell)
 2. Click near a voronoi point and drag to move the voronoi point around
